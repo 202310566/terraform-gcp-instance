@@ -5,7 +5,7 @@ variable "gcp-username" {
 
 variable "gcp-project" {
   description = "GCP project"
-  default     = "icai2025"
+  default     = "ascendant-choir-513107-u5"
 }
 
 variable "gcp-network" {
